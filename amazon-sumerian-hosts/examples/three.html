@@ -118,7 +118,7 @@
     <!--Text to speech dependency-->
     <script
       type="text/javascript"
-      src="https://sdk.amazonaws.com/js/aws-sdk-2.645.0.min.js"
+      src="https://sdk.amazonaws.com/js/aws-sdk-2.967.0.min.js"
     ></script>
     <!--Three.js dependencies-->
     <script src="https://threejs.org/build/three.min.js"></script>
@@ -190,9 +190,9 @@
 
       async function main() {
         // Initialize AWS and create Polly service objects
-        window.AWS.config.region = 'us-west-2';
+        window.AWS.config.region = 'ap-southeast-1';
         window.AWS.config.credentials = new AWS.CognitoIdentityCredentials({
-          IdentityPoolId: '<Enter Cognito Identity Pool ID here>',
+          IdentityPoolId: 'ap-southeast-1:79eb84a5-3fcf-4a2c-9a10-c1e4b7019900',
         });
         const polly = new AWS.Polly();
         const presigner = new AWS.Polly.Presigner();
