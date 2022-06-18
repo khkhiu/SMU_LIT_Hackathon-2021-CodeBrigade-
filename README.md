@@ -1,6 +1,6 @@
 # SMU_LIT_Hackathon-2021[CodeBrigade]
 
-**Note: This is a copy of the write up of my experience 2021 found here:**
+**Note: This is a copy of the write up of my experience found here:**
 
 https://khkhiu.github.io/competition/Hackathon_SMU-LIT-Hackathon-2021/
 
