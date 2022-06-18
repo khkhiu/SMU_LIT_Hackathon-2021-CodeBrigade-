@@ -1,6 +1,7 @@
 # SMU_LIT_Hackathon-2021[CodeBrigade]
 
 **Note: This is a copy of the write up of SMU LIT Hacakathon 2021 found here:
+
 https://khkhiu.github.io/competition/Hackathon_SMU-LIT-Hackathon-2021/**
 
 <strong> The AWS instances and its associated resources have been terminated to prevent unnecessary billing.</strong>
