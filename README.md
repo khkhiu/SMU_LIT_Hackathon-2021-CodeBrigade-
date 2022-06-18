@@ -1,11 +1,10 @@
 # SMU_LIT_Hackathon-2021[CodeBrigade]
 
-**Note** This is a copy of the write up of SMU LIT Hacakathon 2021 found here:
-https://khkhiu.github.io/competition/Hackathon_SMU-LIT-Hackathon-2021/
-{: .notice--info}
+**Note: This is a copy of the write up of SMU LIT Hacakathon 2021 found here:
+https://khkhiu.github.io/competition/Hackathon_SMU-LIT-Hackathon-2021/**
 
-**Note** The AWS instances and its associated resources have been terminated to prevent unnecessary billing.
-{: .notice--info}
+<strong> The AWS instances and its associated resources have been terminated to prevent unnecessary billing.</strong>
+
 
 ***
 
@@ -67,8 +66,6 @@ The solution was created using the following core technologies
 2. AWS Polly, which turns text to speech
 3. AWS Lex, allows for building the response of the chatbot
 
-|![Programming chatbot](/assets/images/Hackathon-SMU_LIT-2021/AWS_Sumerian.png)|
-|<em>Programming the chatbot</em>|
 
 ***
 
@@ -76,6 +73,8 @@ The solution was created using the following core technologies
 
 ***
 <em>The video is a recreation of the solution after the event ended.</em>
+
+[![video demonstration](https://img.youtube.com/embed/6stTxnD-ILc/maxresdefault.jpg)](https://www.youtube.com/embed/6stTxnD-ILc)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6stTxnD-ILc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
