@@ -74,10 +74,7 @@ The solution was created using the following core technologies
 ***
 <em>The video is a recreation of the solution after the event ended.</em>
 
-[![video demonstration](https://img.youtube.com/embed/6stTxnD-ILc/maxresdefault.jpg)](https://www.youtube.com/embed/6stTxnD-ILc)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6stTxnD-ILc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Video demonstration link](https://www.youtube.com/embed/6stTxnD-ILc)
 
 ***
 
