@@ -74,7 +74,7 @@ The solution was created using the following core technologies
 ***
 <em>The video is a recreation of the solution after the event ended.</em>
 
-[![Video demonstration link](https://www.youtube.com/embed/6stTxnD-ILc)
+[!Video demonstration link](https://www.youtube.com/embed/6stTxnD-ILc)
 
 ***
 
